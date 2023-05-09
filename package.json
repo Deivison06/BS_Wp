@@ -9,14 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.6.4",
-    "popper.js": "^1.16.1"
-  },
   "devDependencies": {
     "bootstrap": "^5.2.3",
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
+    "jquery": "^3.6.4",
+    "popper.js": "^1.16.1",
     "sass": "^1.62.1"
   }
 }
